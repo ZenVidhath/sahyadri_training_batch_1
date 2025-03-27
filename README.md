@@ -5,3 +5,4 @@ We use this repo to post our update
 
 This update is from class 2
 
+This is a new line
